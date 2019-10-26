@@ -1,4 +1,4 @@
-package uk.co.cetinkaya.msscbeerservice.controller;
+package uk.co.cetinkaya.msscbeerservice.web.controller;
 
 import java.util.UUID;
 
